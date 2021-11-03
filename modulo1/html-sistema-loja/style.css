@@ -1,0 +1,149 @@
+/* div{
+    color: blueviolet;
+}
+
+h1{
+    color:purple;
+} */
+
+body {
+    position:relative;
+    min-height:100vh; 
+    margin: 10px; 
+    
+}
+
+body {
+    position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.header-parent{
+    width: 1% vw;
+    height: 5px;
+    background-color: darksalmon;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.header-child{
+    margin: 15px, 15px, 15px, 15px;
+    padding-top: 8px;
+    background-color: inherit;
+}
+
+.line1{
+    height: 5px;
+    background-color: darksalmon;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu-parent{
+    width: 100% vw;
+    height: 40px;
+    text-align: center;
+    background-color: whitesmoke;
+    padding-top: 14px;
+}
+
+.menu-child{
+    text-align: center;
+    font-size: 16pt;
+    background-color: inherit;
+}
+
+a:link{
+    text-decoration: none;
+    color:darkred;
+}
+
+a:visited{
+    color:skyblue;
+}
+
+a:hover{
+    color: black;
+}
+h1{
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 30pt;
+}
+
+.margem-esquerda{
+    padding-left: 20px;
+}
+
+img{
+    width: 150px;
+    height: 120px;
+}
+
+table{
+    column-width: 90pt;
+}
+
+th{
+    border: 1px solid black;
+    padding: 7px;
+    text-align: left;
+    font-size: 15pt;
+    line-height: 15pt;
+    word-wrap: break-word;
+    background-color:blueviolet;
+}
+
+td{
+    border: 1px solid darksalmon;
+    padding: 15px;
+    text-align: left;
+    font-size: 14pt;
+}
+
+.line3{
+    height: 1px;
+    background-color: rgb(71, 75, 73);
+    margin-bottom: 7px;
+}
+
+form{
+    line-height: 150%;
+    width: 360px;
+}
+
+input{
+    border: 1px solid blueviolet;
+    float: right;
+    width: 120px;
+    background-color: whitesmoke;
+}
+
+label{
+    font-size: 14pt;
+}
+
+button{
+    margin-top: 15px;
+    height: 18pt;
+    font-size: 14pt;
+    background-color: wheat;
+}
+
+.ul-parent {
+    width: 250px;
+    height: 80px;
+    list-style-type: none;
+}
+
+.ul-child {
+    width: 80px;
+    height: 130px;
+    list-style-type: none;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
