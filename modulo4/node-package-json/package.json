@@ -1,0 +1,31 @@
+{
+  "name": "package-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"node ./index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future4code/Renan-Freitas.git"
+  },
+  "keywords": [
+    "node",
+    "package",
+    "json\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\"\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[\u001b[C\u001b[Cnode",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C:",
+    "\"node\"",
+    "\"package\"",
+    "\"json\""
+  ],
+  "author": "Renan Marinho\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\"\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b\"Renan Marinho\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future4code/Renan-Freitas/issues"
+  },
+  "homepage": "https://github.com/future4code/Renan-Freitas#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
